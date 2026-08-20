@@ -33,4 +33,4 @@ Enter your birth year: 2000
 Your Chinese Zodiac Sign is: Dragon (龙 / Lóng)
 
 # Images
-![code](images/image.png)
+![code](Images/image.png)
