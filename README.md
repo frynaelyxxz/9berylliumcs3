@@ -11,4 +11,7 @@ January 14
 [ILA 3-1: Four Pillars of OOP Output](Quarter 1/ila_oop.md)
 
 [My OOP Seed System](Quarter 1/classObjectUML.md)
+<<<<<<< HEAD
 
+=======
+>>>>>>> 88de6977cabaa45a27aca93190e51390672e2104
