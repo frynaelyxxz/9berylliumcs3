@@ -8,14 +8,18 @@
 |singer| string |Name of the singer|
 |album| string | The album that contains the song|
 |duration| int | Duration of the song|
+|number of streams| int | Number of streams of the song|
+
 ## Methods
 | Method | Description |
 |---|---|| | |
 
-|displayTitle(Title_of_the_song)| Displays the title of the song|
-|displayInfo(Selected_Singer)| Displays the information of the singer |
-|displayAlbum(Album)| Displays the album that contains the song|
-|displayDuration(Duration_of_the_song)|Displays the duration of the song|
+| displayTitle() | Displays the title of the song |
+| displayInfo() | Displays the information of the singer |
+| displayAlbum() | Displays the album that contains the song |
+| displayDuration() | Displays the duration of the song |
+| addNumber_of_streams(amt) | Updates the number of streams of the song |
+
 ## Class Diagram
 ![Class Diagram](images/classDiagram.png)
 ## Design Explanation
