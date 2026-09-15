@@ -5,15 +5,19 @@
 [Part II - Class Attributes and Methods](classAttributesMethods.md)
 ## Existing Class
 Class: Music
+
 Description: The class shows the different albums
 ## New Related Class
 Class: Audio Player
+
 Description: The class is like the core engine of any music application
 ## Association
 Relationship: Audio Player controls the songs 
+
 Explanation: Audio player is needed because without it, the songs are just there. You need it because without it you wont be able to play it
 ## Multiplicity
 Multiplicity: one to many : Audio_Player ───────── Music
+
 Explanation: One audio player plays many songs. The application remains organized and lightweight
 ## UML Class Relationship Diagram
 ![Class Relationship Diagram](Images/classRelationshipDiagram.png)
