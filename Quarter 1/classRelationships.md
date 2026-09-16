@@ -38,3 +38,5 @@ Explanation: One audio player plays many songs. The application remains organize
     I stored an object reference rather than copying its data because object reference is better for storage, its more efficient, and its performance is better than just copying its data.
 ### If your relationship uses many, why is a list appropriate?
     A list is appropriate so that it will stay organized and lightweight.
+
+LLM used: -> Built-in Gemini feature when searching in Google
