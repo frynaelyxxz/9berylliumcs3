@@ -13,3 +13,5 @@ January 14
 [My OOP Seed System](https://github.com/frynaelyxxz/9berylliumcs3/blob/main/Quarter%201/classObjectUML.md)
 
 [My OOP Seed System - Part II](https://github.com/frynaelyxxz/9berylliumcs3/blob/main/Quarter%201/classAttributesMethods.md)
+
+[My OOP Seed System - Part III](https://github.com/frynaelyxxz/9berylliumcs3/blob/main/Quarter%201/classRelationships.md)
