@@ -11,13 +11,16 @@ A constraint in my existing design is the undirectional visibility between the a
 
 ## Inheritance Relationship
 Parent: Music
+
 Child: Premium Music
+
 Explanation: The parent class music defines standard attributes like title, artist, and duration for general audio tracks. the child class premium music inherits all these core properties but extends functionality to include preview restrictions and access validations, acting as  aspecialized type of music track requiring an active subscription asset profile.
 ## Inheritance UML
 ![Inheritance](Images/inheritanceDiagram.png)
 ## Composition/Aggregation
 Relationship: Aggregation
-Explanation: The relatoinship between audioplayer and music is an aggregation because it represents a weak "HAS-A" architectural binding. the audioplayer stores, references, and queues the tracks inside a playlist array, but the track objects are created independently and can continue to exist within memory even if the player instance itself is deleted
+
+Explanation: The relationship between audioplayer and music is an aggregation because it represents a weak "HAS-A" architectural binding. the audioplayer stores, references, and queues the tracks inside a playlist array, but the track objects are created independently and can continue to exist within memory even if the player instance itself is deleted
 ## Advanced UML Diagram
 ![Advanced UML](Images/advancedClassDiagram.png)
 ## Python Implementation
