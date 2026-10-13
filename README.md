@@ -18,6 +18,6 @@ January 14
 
 [My OOP Seed System - Part IV](https://github.com/frynaelyxxz/9berylliumcs3/blob/main/Quarter%201/advancedRelationships.md)
 
-[SG_encapsulation.py](https://github.com/frynaelyxxz/9berylliumcs3/blob/main/Quarter%202/sg8_encapsulation.py)
+[SG8_encapsulation.py](https://github.com/frynaelyxxz/9berylliumcs3/blob/main/Quarter%202/sg8_encapsulation.py)
 
-[SG_encapsulation.png](https://github.com/frynaelyxxz/9berylliumcs3/blob/main/Quarter%201/Images/sg8_encapsulation.png)
+[SG8_encapsulation.png](https://github.com/frynaelyxxz/9berylliumcs3/blob/main/Quarter%201/Images/sg8_encapsulation.png)
