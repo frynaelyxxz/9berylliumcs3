@@ -1,6 +1,10 @@
 Frianna Elysse M. Millena
+
 9-Beryllium
+
 January 14
+
+femmillena@brc.pshs.edu.ph
 
 # Outputs
 
