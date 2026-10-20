@@ -25,4 +25,4 @@ femmillena@brc.pshs.edu.ph
 ## Second Quarter
 [SG8_encapsulation.py](https://github.com/frynaelyxxz/9berylliumcs3/blob/main/Quarter%202/sg8_encapsulation.py)
 
-[SG8_encapsulation.png](https://github.com/frynaelyxxz/9berylliumcs3/blob/main/Quarter%201/Images/sg8_encapsulation.png)
+[SG9_inheritance.py](https://github.com/frynaelyxxz/9berylliumcs3/blob/main/Quarter%202/sg9_inheritance.py)
