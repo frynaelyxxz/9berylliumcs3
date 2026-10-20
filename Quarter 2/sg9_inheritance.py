@@ -63,6 +63,3 @@ b1.display() #This prints the title, author, and number of pages of the book
 print() #This prints a blank line
 print("\nMagazine Information: ") #This prints the header for the magazine information
 m1.display() #This prints the title, author, and issue number of the magazine
-
-print(m1.()) #This prints the number of pages of the book
-
