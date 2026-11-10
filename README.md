@@ -30,3 +30,9 @@ femmillena@brc.pshs.edu.ph
 [SG9_inheritance.py](https://github.com/frynaelyxxz/9berylliumcs3/blob/main/Quarter%202/sg9_inheritance.py)
 ### SG10_method_overriding.py ☆౨ৎ
 [SG10_method_overriding.py](https://github.com/frynaelyxxz/9berylliumcs3/blob/main/Quarter%202/sg10_method_overriding.py)
+### SG11_polymorphism_activity1.py
+[SG11_polymorphism_activity1.py]
+(https://github.com/frynaelyxxz/9berylliumcs3/blob/main/Quarter%202/sg11_polymorphism_activity1.py)
+### SG11_polymorphism_activity2.md
+[SG11_polymorphism_activity2.md]
+(https://github.com/frynaelyxxz/9berylliumcs3/blob/main/Quarter%202/sg11_polymorphism_activity2.md)
