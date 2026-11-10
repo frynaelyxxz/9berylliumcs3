@@ -10,9 +10,7 @@
    
 2. Create the Python code that:
 
-    Code:
-   
-    [Python Code: Activity 2](sg11_polymorphism_activity2.py)
+    Code: [Python Code: Activity 2](sg11_polymorphism_activity2.py)
    
 3. How does the code in 2.2 demonstrate polymorphism?
 
